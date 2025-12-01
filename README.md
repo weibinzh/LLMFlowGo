@@ -1,9 +1,11 @@
 ## LLMFlowGO
 An LLM-Driven System for Integrated Workflow Generation and Optimization
+<p align="center">
 <img src="images/image.png" alt="image" width="50%"/>
 <img src="images/snapshot1.png" alt="snapshot1" width="50%" />
 <img src="images/snapshot2.png" alt="snapshot2" width="50%" />
 <img src="images/snapshot3.png" alt="snapshot3" width="50%" />
+ </p>
 ## ✨ Developer
  * Developer organization:
  1. Shool of Internet, Anhui University, Hefei, China
