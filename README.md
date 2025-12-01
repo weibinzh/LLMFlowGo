@@ -24,4 +24,4 @@ An LLM-Driven System for Integrated Workflow Generation and Optimization
 **Workflow Execution, Monitoring, and Optimization**: LLMFlowGO integrates GRS for efficient exploration and MEOH for strategy-driven evaluation, iteratively refining service-range configurations toward a dynamic ideal point and forming a closed feedback loop that enables continuous, quantifiable optimization.These comparison algorithms can be found in [EdgeWorkflow](https://github.com/ISEC-AHU/EdgeWorkflow).
 ## 🔍 How to use
 Step 1: Select DAG modeling with advanced language generation in LLM4workflow, then you can modify node information as needed, and finally click the Next button.
-<img src="images/step1.png" alt="snapshot" width="50%" />
+<img src="images/step1.png" alt="step1" width="50%" />
