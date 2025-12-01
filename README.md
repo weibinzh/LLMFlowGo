@@ -40,6 +40,10 @@ Step 4: Workflow execution, monitoring, and optimization in the terminal. In thi
 <img src="images/step4.1.png" alt="step4.1" width="50%" />
 <img src="images/step4.2.png" alt="step4.2" width="50%" />
 </p>
-视频链接：https://youtu.be/sq7TER2pDqg
 
+## 🎥 Demonstration
+
+For more details, you can watch the [demo video](https://youtu.be/sq7TER2pDqg).
+
+## 🛠️ Getting Started
 
