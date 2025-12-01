@@ -46,4 +46,4 @@ Step 4: Workflow execution, monitoring, and optimization in the terminal. In thi
 For more details, you can watch the [demo video](https://youtu.be/sq7TER2pDqg).
 
 ## 🛠️ Getting Started
-
+To run LLMFlowGo, follow these steps:
