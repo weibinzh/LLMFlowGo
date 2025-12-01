@@ -47,3 +47,30 @@ For more details, you can watch the [demo video](https://youtu.be/sq7TER2pDqg).
 
 ## 🛠️ Getting Started
 To run LLMFlowGo, follow these steps:
+1. Clone this repository:`git clone https://github.com/ISEC-AHU/LLM4Workflow.git LLM4Workflow`
+
+2. Navigate to the backend directory: `cd LLM4Workflow/backend`
+
+3. Set up the Python  environment: `virtualenv venv && venv/bin/activate && poetry install`
+
+4. Start the Postgres server: `docker-compose up`
+
+5. Configure environment variables:
+
+   ```sh
+   # Obtain OpenAI API access from https://openai.com/blog/openai-api
+   OPENAI_API_KEY=<your-api-key>
+   
+   # Lang Smith Configuration[Optional]
+   LANGCHAIN_TRACING_V2=true
+   LANGCHAIN_API_KEY=<your-api-key>
+   LANGCHAIN_PROJECT=<your-project>  # if not specified, defaults to "default"
+   ```
+
+6. Start the backend server: `langchain serve`
+
+7. Set up the frontend environment: `cd frontend && npm install`
+
+8. Start the frontend (dev) server: `npm run start`
+
+9. Your application should now be up and running in your browser! If you need to change the startup port, you can configure it in the `vite.config.ts` file.
