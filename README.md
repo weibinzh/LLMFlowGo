@@ -6,6 +6,7 @@ An LLM-Driven System for Integrated Workflow Generation and Optimization
 <img src="images/snapshot2.png" alt="snapshot2" width="50%" />
 <img src="images/snapshot3.png" alt="snapshot3" width="50%" />
  </p>
+ 
 ## ✨ Developer
  * Developer organization:
  1. Shool of Internet, Anhui University, Hefei, China
@@ -15,6 +16,7 @@ An LLM-Driven System for Integrated Workflow Generation and Optimization
 
  * Developer Member: 
  * Jia Xu, Weibing Zhang, Xiao Liu,Jinglong Fang, Xuejun Li
+ * 
 ## 🤖 Architecture
 
 **Workflow Modeling**: The workflow modeling module uses large language models to automatically convert high-level task descriptions into expressive, adaptable workflow graphs that form the foundation for downstream optimization and execution.This workflow model can be exported from [LLM4Workflow](https://github.com/ISEC-AHU/LLM4Workflow)
