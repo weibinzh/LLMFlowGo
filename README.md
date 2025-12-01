@@ -47,7 +47,7 @@ For more details, you can watch the [demo video](https://youtu.be/sq7TER2pDqg).
 
 ## 🛠️ Getting Started
 To run LLMFlowGo, follow these steps:
-1. Clone this repository:`git clone https://github.com/ISEC-AHU/LLM4Workflow.git LLM4Workflow`
+1. Clone this repository:``
 
 2. Navigate to the backend directory: `cd LLM4Workflow/backend`
 
