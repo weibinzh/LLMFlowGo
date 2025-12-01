@@ -16,7 +16,7 @@ An LLM-Driven System for Integrated Workflow Generation and Optimization
 
  * Developer Member: 
  * Jia Xu, Weibing Zhang, Xiao Liu,Jinglong Fang, Xuejun Li
- * 
+
 ## 🤖 Architecture
 
 **Workflow Modeling**: The workflow modeling module uses large language models to automatically convert high-level task descriptions into expressive, adaptable workflow graphs that form the foundation for downstream optimization and execution.This workflow model can be exported from [LLM4Workflow](https://github.com/ISEC-AHU/LLM4Workflow)
