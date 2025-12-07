@@ -30,8 +30,8 @@ An LLM-Driven System for Integrated Workflow Generation and Optimization
 
 **Workflow Execution, Monitoring, and Optimization**: LLMFlowGO integrates GRS for efficient exploration and MEOH for strategy-driven evaluation, iteratively refining service-range configurations toward a dynamic ideal point and forming a closed feedback loop that enables continuous, quantifiable optimization.These comparison algorithms can be found in [EdgeWorkflow](https://github.com/ISEC-AHU/EdgeWorkflow).
 ## 🔍 How to use
-We will use the Montage workflow as an example to demonstrate.Montage is a representative astronomy scientific workflow widely adopted as a benchmark for evaluating workflow scheduling and resource management strategies under heterogeneous and data-intensive. environments.
-Step 1:We input the high-level language description of the Montage task into LLM4Workflow.
+**We will use the Montage workflow as an example to demonstrate.Montage is a representative astronomy scientific workflow widely adopted as a benchmark for evaluating workflow scheduling and resource management strategies under heterogeneous and data-intensive. environments.
+**Step 1:We input the high-level language description of the Montage task into LLM4Workflow.
 <p align="center">
 <img src="images/LLM4Workflow_step1.png" alt="LLM4Workflow_step1"/>
 </p>
