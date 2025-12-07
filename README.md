@@ -57,7 +57,8 @@ We will use the Montage workflow as an example to demonstrate.Montage is a repre
 <img src="images/step3.png" alt="step3"/>
 </p>
 
-**Step 6: Workflow execution, monitoring, and optimization in the terminal. In this one-click optimization, the system first allows the LLM to select the functions with the greatest optimization potential based on the algorithm code. Then, it uses the AST to take the relevant function code as a template for subsequent optimizations and extracts the related code into an independent space of the executor. At the same time, it allows extracting the function interfaces called by that function (such as function names, parameters, etc.), enabling the LLM to generate strategies and use the MEOH optimization algorithm, store the optimal code and result comparisons, forming our autonomous system**
+**Step 6: Workflow execution, monitoring, and optimization in the terminal**
+In this one-click optimization, the system first allows the LLM to select the functions with the greatest optimization potential based on the algorithm code. Then, it uses the AST to take the relevant function code as a template for subsequent optimizations and extracts the related code into an independent space of the executor. At the same time, it allows extracting the function interfaces called by that function (such as function names, parameters, etc.), enabling the LLM to generate strategies and use the MEOH optimization algorithm, store the optimal code and result comparisons, forming our autonomous system
 <p align="center">
 <img src="images/step4.1.png" alt="step4.1"/>
 <img src="images/step4.2.png" alt="step4.2"/>
