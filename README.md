@@ -1,7 +1,8 @@
 ## LLMFlowGO
 An LLM-Driven System for Integrated Workflow Generation and Optimization
-<p align="center">
+
 <h1>EXAMPLE : Montage workflow</h1>
+<p align="center">
 <img src="images/LLMWORKFLOW_MONTAGE.png" alt="LLMWORKFLOW_MONTAGE" width="50%"/>
 <img src="images/LLM4WORKFLOW_GENERATION.png" alt="LLM4WORKFLOW_GENERATION" width="50%" />
 <img src="images/snapshot1.png" alt="snapshot1" width="50%" />
