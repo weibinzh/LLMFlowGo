@@ -62,11 +62,12 @@ We will use the Montage workflow as an example to demonstrate.Montage is a repre
 <img src="images/step4.2.png" alt="step4.2"/>
 </p>
 
-This is a comparison between our optimized algorithm and related algorithms, as well as a comparison of outer search algorithms in the same GA algorithm scenario.
+This is a comparison between our optimized algorithm and related algorithms, As shown in the figure, "before" represents the evaluation metrics of the algorithm before optimization, while "best" represents the evaluation metrics of the algorithm ranked first after optimization.Compared with the original GRS+GA, the optimized method achieves consistent improvements across all three objectives: the makespan is reduced by 8.9 percent, energy consumption by 7.4 percent, and scheduling cost by over 31 percent. These results confirm the effectiveness of the proposed optimization strategy.Meanwhile, the outer search algorithm of the GRS algorithm also outperforms other algorithms in other metrics under the same GA scheduling algorithm.
 <p align="center">
 <img src="images/4.jpg" alt="4.jpg"/>
 <img src="images/5.jpg" alt="5.jpg"/>
 </p>
+
 ## 🎥 Demonstration
 
 For more details, you can watch the [demo video](https://youtu.be/sq7TER2pDqg).
