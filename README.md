@@ -62,6 +62,11 @@ We will use the Montage workflow as an example to demonstrate.Montage is a repre
 <img src="images/step4.2.png" alt="step4.2"/>
 </p>
 
+This is a comparison between our optimized algorithm and related algorithms, as well as a comparison of outer search algorithms in the same GA algorithm scenario.
+<p align="center">
+<img src="images/4.jpg" alt="4.jpg"/>
+<img src="images/5.jpg" alt="5.jpg"/>
+</p>
 ## 🎥 Demonstration
 
 For more details, you can watch the [demo video](https://youtu.be/sq7TER2pDqg).
